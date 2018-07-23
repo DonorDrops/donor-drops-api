@@ -1,0 +1,16 @@
+{
+  "name": "Donor Drops API",
+  "description": "Donor Drops API",
+  "repository": "https://GTime@bitbucket.org/GTime/donor-drops-api.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": [
+    "blood",
+    "blood donation",
+    "donation",
+    "api",
+    "donor drops"
+    "facebook",
+    "graphql"
+  ],
+  "image": "heroku/nodejs"
+}
